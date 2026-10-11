@@ -6,8 +6,7 @@ Auto-Hub Garage — A modern automotive automation services website built with R
 
 - React.js
 - Tailwind CSS
-- JavaScript
-- HTML5
+- JavaScript (JS)
 
 ## ✨ Features
 
